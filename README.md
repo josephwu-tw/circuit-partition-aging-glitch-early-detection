@@ -1,2 +1,2 @@
-# c17-circuits-aging-failiure-detection
+# circuit-partition-aging-glitch-early-detection
 
